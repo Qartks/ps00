@@ -16,3 +16,10 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 
 ============committing to git: 9/5 13:48 ===================
 
+9/5   KS	13:50  14:00  	 	        3	10	     Starting on Ex3
+9/5   KS	14:00  14:20 	 	        3	20	     Analyzing how to check repeating decimals.
+							             Inserted results from interaction area in order the check      								     results Getting erroneous text on Github.
+9/5   KS	14:20  14:50 	 10	        3	20  	     Unable to check negative number in check-within
+							             *Finished Ex3*
+
+============committing to git: 9/5 14:50 ===================
