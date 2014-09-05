@@ -5,9 +5,14 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 ============committing to git: 9/5 12:23 ===================
 
 9/5   KS	12:35  13:00     5			20	     Reading through Master Rubric
-		13:00  13:10	 5	        1	5	     Starting on Ex1 
-		13:10  13:35     5              1       20           Thinking about the possible two more expressions
+9/5   KS	13:00  13:10	 5	        1	5	     Starting on Ex1 
+9/5   KS	13:10  13:35     5              1       20           Thinking about the possible two more expressions
 								     *Finished Ex1*
 
 ============committing to git: 9/5 13:36 ===================
 								     	
+9/5   KS	13:40  13:47	 	        2	7	     Starting Ex2
+								     *Finished Ex2*
+
+============committing to git: 9/5 13:48 ===================
+
