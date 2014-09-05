@@ -52,3 +52,9 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 
 ============committing to git: 9/5 17:50 ===================
 
+
+
+9/5   KS	17:52  17:55  	 	        7	3	     Starting on Ex8, Reading the question…
+9/5   KS	17:55  18:05  	 	        7	10           Preparing the contract, purpose statement and examples.
+								     
+
