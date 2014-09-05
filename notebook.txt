@@ -37,6 +37,11 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 
 ============committing to git: 9/5 16:50 ===================
 
+9/5   KS	16:50  17:10  	 5	        6	20	     Starting on Ex6, Writing contract, purpose statement and 
+								     noting down examples.
+								     thinking about the indentation for the function definition.
+9/5   KS	17:10  17:15  	 	        6	5            Setting up check-expect statments
+								     *Finished Ex6*
 
-
+============committing to git: 9/5 17:15 ===================
 
