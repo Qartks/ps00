@@ -40,8 +40,15 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 9/5   KS	16:50  17:10  	 5	        6	20	     Starting on Ex6, Writing contract, purpose statement and 
 								     noting down examples.
 								     thinking about the indentation for the function definition.
-9/5   KS	17:10  17:15  	 	        6	5            Setting up check-expect statments
+9/5   KS	17:10  17:15  	 	        6	5            Setting up check-expect statements
 								     *Finished Ex6*
 
 ============committing to git: 9/5 17:15 ===================
+
+
+9/5   KS	17:30  17:40  	 	        7	10	     Starting on Ex7, Analyzing contract, purpose statement.
+9/5   KS	17:40  17:50  	 	        7	20           Looking at check-expect statements and it appears we are to 								     use check-within and added case for Radius being Negative
+								     *Finished Ex7*
+
+============committing to git: 9/5 17:50 ===================
 
