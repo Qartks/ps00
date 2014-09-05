@@ -23,3 +23,15 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 							             *Finished Ex3*
 
 ============committing to git: 9/5 14:50 ===================
+
+
+9/5   KS	16:00  16:10  	 	        3	10	     Starting on Ex4, Checking contract purpose statement and 
+								     Analyzing function definition.
+9/5   KS	16:10  16:30  	 	        3	20     	     Checking negative cases and inserting check statements
+								     *Finished Ex4*
+============committing to git: 9/5 16:40 ===================
+
+
+
+
+
