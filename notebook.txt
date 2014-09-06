@@ -1,6 +1,6 @@
 Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 
-9/5   KS        12:00  12:30                            30           Setting up GitHub
+9/5   KS        12:00  12:30                            30           Setting up GitHub and laptop
 
 ============committing to git: 9/5 12:23 ===================
 
@@ -53,8 +53,41 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 ============committing to git: 9/5 17:50 ===================
 
 
+9/5   KS	17:52  17:55  	 	        8	3	     Starting on Ex8, Reading the question…
+9/5   KS	17:55  18:05  	 	        8	10           Preparing the contract, purpose statement and examples.
+9/5   KS	18:05  18:10  	 	        8	10 	     *Finished Ex8*
 
-9/5   KS	17:52  17:55  	 	        7	3	     Starting on Ex8, Reading the question…
-9/5   KS	17:55  18:05  	 	        7	10           Preparing the contract, purpose statement and examples.
-								     
+============committing to git: 9/5 18:10 ===================
+
+
+9/5   KS	18:10  18:35  	 	        9	25	     Started Ex9, and researching on the difference between modulo
+								     and remainder.
+9/5   KS	18:35  18:50  	 	        9	15	     Unable to completely understand the difference, will get back 								     to this later. Moving on with Function even?.v1 using 									     remainder.
+9/5   KS	18:50  19:05  	 	        10	10	     Moving on to Ex 10. Writing down the contract, purpose 									     statement and examples
+9/5   KS	19:05  19:15  	 	        10	10	     *Finished Exe 10*
+9/5   KS	19:15  20:30 	 15+10+10        9	40	     Going back of Ex9, will continue the difference between  	  								     remainder and modulo later.
+   
+============committing to git: 9/5 21:00 ===================
+
+
+Total Time On Task Q1 (minutes)                  25 
+Total Time On Task Q2 (minutes)                  7 
+Total Time On Task Q3 (minutes)                  50 
+Total Time On Task Q4 (minutes)                  30 
+Total Time On Task Q5 (minutes)                  10 
+Total Time On Task Q6 (minutes)                  25 
+Total Time On Task Q7 (minutes)                  30 
+Total Time On Task Q8 (minutes)                  23 
+Total Time On Task Q9 (minutes)                  60 
+Total Time On Task Q10 (minutes)                 20 
+TOTQ1 (hours and tenths)                         0.5 
+TOTQ2 (hours and tenths)                         0.1 
+TOTQ3 (hours and tenths)                         0.9 
+TOTQ4 (hours and tenths)                         0.5 
+TOTQ5 (hours and tenths)                         0.2 
+TOTQ6 (hours and tenths)                         0.4 
+TOTQ7 (hours and tenths)                         0.5 
+TOTQ8 (hours and tenths)                         0.4 
+TOTQ9 (hours and tenths)                         1.0 
+TOTQ10 (hours and tenths)                        0.3
 
