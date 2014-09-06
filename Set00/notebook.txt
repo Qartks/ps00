@@ -74,6 +74,10 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
 
 ============committing to git: 9/6 13:30 ===================
 
+9/6   KS	18:30  						     Moving all files to folder Set00 	                 	
+
+============committing to git: 9/6 18:35 ===================
+
 
 Total Time On Task Q1 (minutes)                  25 
 Total Time On Task Q2 (minutes)                  7 
