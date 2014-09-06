@@ -1,6 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-beginner-reader.ss" "lang")((modname 04-Ex9) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname |9|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 ; even?.v1 : Number -> Boolean
 ; GIVEN : a number on which is to be tested
 ; RETURNS : whether the number is even or not
@@ -23,9 +23,9 @@
 (check-expect (even?.v1 -8) true)
 
 
-;(remainder 9 -4)
+(remainder 9 -4)
 
-;(modulo 9 -4)
+(modulo 9 -4)
 
 #|
 
@@ -35,8 +35,13 @@ numbers are of the same sign.
 i.e. (mod a b) = (remainder a b) if a,b>=0 or a,b<0
 
 The results for both operations would vary if the two
-number are of opposite signs.
-.
+number are of opposite signs since the calculations for 
+the operations vary
+
+(a mod b) = (a - (b * floor(a/b)))
+
+(a remainder b) = (a - (b * int(a/b)))
+
 |#
        
       

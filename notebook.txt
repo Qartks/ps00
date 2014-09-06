@@ -69,6 +69,11 @@ Date  Who       Start  Stop   Interruptions Question TimeOnTask      Comments
    
 ============committing to git: 9/5 21:00 ===================
 
+9/6   KS	13:10  13:30 	                 9	20	     Completed note about remainder and modulo, they use 									     different functions to evaluate the results.
+								     *Finished Ex9*		
+
+============committing to git: 9/6 13:30 ===================
+
 
 Total Time On Task Q1 (minutes)                  25 
 Total Time On Task Q2 (minutes)                  7 
@@ -78,7 +83,7 @@ Total Time On Task Q5 (minutes)                  10
 Total Time On Task Q6 (minutes)                  25 
 Total Time On Task Q7 (minutes)                  30 
 Total Time On Task Q8 (minutes)                  23 
-Total Time On Task Q9 (minutes)                  60 
+Total Time On Task Q9 (minutes)                  80 
 Total Time On Task Q10 (minutes)                 20 
 TOTQ1 (hours and tenths)                         0.5 
 TOTQ2 (hours and tenths)                         0.1 
@@ -88,6 +93,6 @@ TOTQ5 (hours and tenths)                         0.2
 TOTQ6 (hours and tenths)                         0.4 
 TOTQ7 (hours and tenths)                         0.5 
 TOTQ8 (hours and tenths)                         0.4 
-TOTQ9 (hours and tenths)                         1.0 
+TOTQ9 (hours and tenths)                         1.3 
 TOTQ10 (hours and tenths)                        0.3
 
